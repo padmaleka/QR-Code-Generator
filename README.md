@@ -14,3 +14,9 @@ A simple Node.js command-line app that generates a QR Code from a user-inputted 
 - [Inquirer](https://www.npmjs.com/package/inquirer)
 - [qr-image](https://www.npmjs.com/package/qr-image)
 - [fs (File System)](https://nodejs.org/api/fs.html)
+
+## Sample Output
+
+Here’s an example of a generated QR code:
+
+![QR Code Sample](qr_img.png)
